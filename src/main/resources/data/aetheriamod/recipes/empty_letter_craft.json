@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "aetheriamod:paper_and_quill"
+    },
+    {
+      "item": "aetheriamod:envelope"
+    }
+  ],
+  "result": {
+    "item": "aetheriamod:empty_letter",
+    "count": 1
+  }
+}
